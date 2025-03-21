@@ -48,7 +48,7 @@ Or, use the ES module build:
 
 ```html
 <script type="module">
-  import { createApp } from 'https://cdn.jsdelivr.net/npm/petite-vue?module'
+  import { createApp } from 'https://esm.run/petite-vue'
   createApp().mount()
 </script>
 ```
